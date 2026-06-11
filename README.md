@@ -11,11 +11,9 @@ A telecom company is losing a significant share of its customers (churn) and has
 ```
 ├── Telco_Churn_Analysis.ipynb        # Python notebook - data cleaning & EDA
 ├── telco_churn_cleaned.csv           # Cleaned dataset
-├── charts/                           # EDA visualizations (Q1-Q6)
-├── Telco_Churn_Dashboard.pbix        # Power BI interactive dashboard
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Original raw dataset (Kaggle)
 ├── dashboard_screenshot.png          # Dashboard preview image
-├── Telco_Churn_Project_Report.docx   # Full project report
-├── Telco_Churn_Presentation.pptx     # Summary presentation deck
+├── Telco_Churn_Project_Report.pdf    # Full project report
 └── README.md
 ```
 
