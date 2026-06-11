@@ -67,4 +67,4 @@ An interactive Power BI dashboard presents these findings with KPI cards, churn 
 
 **Shivani Singh**
 B.Tech CSE (AI & ML), Sharda University
-[LinkedIn](https://linkedin.com/in/shivani-033b5a257) | [GitHub](https://github.com/Shivani5656) | [LeetCode](https://leetcode.com/u/Shivani1403)
+[LinkedIn](https://www.linkedin.com/in/shivani-singh-033b5a257) | [GitHub](https://github.com/Shivani5656) | [LeetCode](https://leetcode.com/u/Shivani1403)
