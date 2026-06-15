@@ -63,7 +63,7 @@ Tenure (0.1550)
 
 These financial and loyalty signals account for over 51% of the model's predictive power, directly validating the EDA findings.
 
-📈 Dashboard
+![Dashboard](dashboard_screenshot.png)
 
 An interactive Power BI dashboard presents these findings with KPI cards, churn breakdowns by contract/tenure/internet service/payment method, and a slicer for filtering by contract type.
 
